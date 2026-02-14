@@ -1,6 +1,0 @@
-nimbus = read_csv("nimbus.csv")
-nimbus
-nimbus %>% pluck("ozone") %>% class()
-
-df = read_excel("who.xls", range="C204:U209", na="x", col_names=FALSE)
-df
