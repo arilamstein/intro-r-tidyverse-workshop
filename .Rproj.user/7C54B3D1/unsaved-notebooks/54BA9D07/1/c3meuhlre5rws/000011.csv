@@ -1,0 +1,4 @@
+"0","nimbus = read_csv(""nimbus.csv"", na=""."")"
+"0","nimbus %>% "
+"0","  filter(is.na(ozone)) %>% "
+"0","  summarize(n=n())"

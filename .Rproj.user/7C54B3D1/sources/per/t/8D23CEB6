@@ -1,0 +1,24 @@
+{
+    "id": "8D23CEB6",
+    "path": "~/workshops/intro-r-tidyverse/03-Import-Data/nimbus.csv",
+    "project_path": "03-Import-Data/nimbus.csv",
+    "type": "text",
+    "hash": "3938168638",
+    "contents": "",
+    "dirty": false,
+    "created": 1770943665694.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604692196,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604692196,
+    "read_only": false,
+    "read_only_alternatives": []
+}
