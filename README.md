@@ -1,15 +1,13 @@
 # tidyverse-Training
 
-In order to participate in the workshop you will need:
+Slides and exercises for my workshop "Data Analysis in R using the Tidyverse". Based on RStudio's workshop "Mastering the Tidyverse".
 
-1.  RStudio running on your local machine
-2.  The ability to use git on your local machine.
+Prior to the start of the workshop please:
 
-After that, please do the following:
-
-1.  Clone this repository on your local machine.
-
-2.  Load RStudio, and type the following into the R Console:
+1. [Download](https://www.r-project.org/) the latest version of R. 
+2. [Download](https://posit.co/downloads/) the latest version of RStudio.
+3. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository. 
+4. Run the following command in your R console:
 
 ```
 install.packages(c("babynames", "formatR", "gapminder", "hexbin", "mgcv", "maps", "mapproj","nycflights13", "tidyverse", "viridis", "plotly"))
